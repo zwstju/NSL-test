@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Model weights
+models/
+
+# OS / editor
+.vscode/
+.DS_Store
+
+# Jupyter / misc
+.ipynb_checkpoints/
